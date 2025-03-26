@@ -1,0 +1,3 @@
+1. Ejecutar algoritmo_genetico_adaptativo.py, configurando las variables deseadas como generaciones o el uso de individuos voraces. El archivo ordenades.csv debe estar en la misma carpeta.
+2. Una vez finalizada la ejecución, se genera un archivo resultados.csv
+3. Ejecutar animacion.py, considerando que resultados.csv debe estar en la misma carpeta que el código. Usar las flechas para moverse entre generaciones y C para ver la comparación entre la configuración original y la mejor encontrada.
